@@ -38,7 +38,7 @@ ex) 이벤트 위임 방식 등
 
 - 인라인(Inline) 방식
 
-```
+```javascript
 <input type="button" onClick="alert("hello doongji)" />
 ```
 
@@ -46,7 +46,7 @@ ex) 이벤트 위임 방식 등
 
 - 프로퍼티 리스너
 
-```
+```javascript
 <script>
 
     var t = document.getElementById(‘target’);
@@ -64,7 +64,7 @@ ex) 이벤트 위임 방식 등
 
 - addEventListener
 
-```
+```javascript
 <script>
 
     var t = document.getElementById(‘target’);

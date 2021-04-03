@@ -58,32 +58,33 @@ localStorage.clear(); // 전체삭제
 
 > 생성
 
-```
-const setCookie = function(name, value, exp) {
+```javascript
+const setCookie = function (name, value, exp) {
   const date = new Date();
-  date.setTime(date.getTime() + exp*24*60*60*1000);
-  document.cookie = name + '=' + value + ';expires=' + date.toUTCString() + ';path=/';
+  date.setTime(date.getTime() + exp * 24 * 60 * 60 * 1000);
+  document.cookie =
+    name + "=" + value + ";expires=" + date.toUTCString() + ";path=/";
 };
 setCookie("expend", "true", 1);
 ```
 
 > 조회
 
-```
-const getCookie = function(name) {
-  const value = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
-  return value? value[2] : null;
+```javascript
+const getCookie = function (name) {
+  const value = document.cookie.match("(^|;) ?" + name + "=([^;]*)(;|$)");
+  return value ? value[2] : null;
 };
 const is_expend = getCookie("expend");
 ```
 
 > 삭제
 
-```
-const deleteCookie = function(name) {
-      document.cookie = name + '=; expires=Thu, 01 Jan 1999 00:00:10 GMT;';
-}
-deleteCookie('name');
+```javascript
+const deleteCookie = function (name) {
+  document.cookie = name + "=; expires=Thu, 01 Jan 1999 00:00:10 GMT;";
+};
+deleteCookie("name");
 ```
 
 사용 예) 쇼핑몰 장바구니, 오늘하루 동안 팝업 보이지 않기
