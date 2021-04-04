@@ -90,3 +90,11 @@ const name = "Lim";
 
 - undefined로 초기화 되는 var와 달리 const와 let은 초기화가 되지 않는 점에서 차이가 있다.
 - 출력 결과는 var처럼 undefined를 반환하지 않고, ReferenceError가 발생!
+
+## ✔️ 참고
+
+[[JavaScript] 호이스팅(Hoisting)이란 - Heee's Development Blog](https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html)
+
+[How Does Hoisting Work in Javascript ES6?](https://levelup.gitconnected.com/how-does-hoisting-work-in-javascript-es6-b0e06727e071)
+
+[What Is Hoisting in Javascript: Why and How to Avoid Using It](https://medium.com/swlh/what-is-hoisting-in-javascript-why-and-how-to-avoid-using-it-e923c7a751e7)
