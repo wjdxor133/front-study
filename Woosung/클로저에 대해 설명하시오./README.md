@@ -96,7 +96,7 @@ Human.prototype.greeting = function () {
 
 var HM = new Human("우성");
 
-HM.greeting(); // '장군 님 반갑습니다!'
+HM.greeting(); // '우성 님 반갑습니다!'
 HM._name = "경민";
 HM.say(); // '경민 님 반갑습니다!'
 ```
