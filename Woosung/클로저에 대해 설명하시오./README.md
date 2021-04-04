@@ -119,3 +119,14 @@ HM(); // '우성 님 반갑습니다!'
 
 - 이렇게 되면 이제 내부 변수 name을 바꿀 방법이 사라지게 된다.
 - 하지만 클로저를 매번 사용하면 메모리 공가을 차지하기 때문에, 꼭 필요한 경우가 아니라면 클로저를 사용하지 않는 것이 좋다.
+
+✔️ 참고 
+<br />
+[Closure | PoiemaWeb](https://poiemaweb.com/js-closure)
+
+[[자바스크립트] 클로저(closure) 바로알기](https://www.daleseo.com/js-closures/)
+
+[자바스크립트 클로저 설명, 예시, 활용](https://oneroomtable.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%81%B4%EB%A1%9C%EC%A0%80-%EC%84%A4%EB%AA%85-%EC%98%88%EC%8B%9C-%ED%99%9C%EC%9A%A9)
+
+[JavaScript Scope and Closures | CSS-Tricks](https://css-tricks.com/javascript-scope-closures/)
+
