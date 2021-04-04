@@ -98,8 +98,8 @@ btn.addEventListener("click", someone.whoAmI);
 
 <br/><br/>
 
-> 결과가 위와같이 나온 이유?  
-> someone이 whoAmI를 호출한게 아니다. whoAmI함수를 꺼내서 button에 넘겨준 것. 즉 호출은 `button`
+- 결과가 위와같이 나온 이유?  
+  - someone이 whoAmI를 호출한게 아니다. whoAmI함수를 꺼내서 button에 넘겨준 것. 즉 호출은 `button`
 
 <br/><br/>
 
