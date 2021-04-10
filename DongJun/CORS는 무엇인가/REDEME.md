@@ -1,7 +1,7 @@
 # CORS는 무엇인가
 
 
-<img src="https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/1pJY/image/OhRUYAA_taKZtLVo5BMCpomOqUo.png" width="500" height="3000/">
+<img src="https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/1pJY/image/OhRUYAA_taKZtLVo5BMCpomOqUo.png" width="500" height="300"/>
 
  ## CORS란?
  ***Cross-Origin Resource Sharing(교차 출처 자원 공유)***
