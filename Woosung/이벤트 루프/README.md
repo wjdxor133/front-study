@@ -29,7 +29,7 @@ function hello() {
 
 ### 자바스크립트가 브라우저에서 어떻게 비동기 처리를 해주는가?
 
-- 우선 브라우저에는 `Web APIs`, `Callback Queue`, `Event Loop` 등으로 구성되어 있
+- 우선 브라우저에는 `Web APIs`, `Callback Queue`, `Event Loop` 등으로 구성되어 있다.
 
 ```jsx
 console.log("first");
