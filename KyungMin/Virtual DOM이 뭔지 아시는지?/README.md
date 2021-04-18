@@ -20,16 +20,19 @@
 > 브라우저 로딩 과정: 파싱 > 스타일 > 레이아웃(리플로우) > 페인트 > 합성 & 렌더
 
 (1) DOM Tree 생성<br>
-브라우저가 전달 받은 HTML DOM으로 변환
+브라우저가 전달 받은 HTML,CSS를 `DOM으로 변환` <br>
+<img src = "./3.png" width="50%">
 
 (2) Render Tree 생성<br>
-css 등 스타일 요소 attach DOM Tree와 같게 Render Tree 생성
+css 등 스타일 요소 attach DOM Tree와 같게 `실제 화면에 표현되는 Render Tree` 생성<br>
+<img src = "./4.png" width="50%">
 
 (3) Layout<br>
-각 노드들이 어디에 나타야할지 스크린 좌표 계산
+각 노드들이 어디에 나타야할지 스크린 좌표 계산(브라우저 화면의 어느 위치에 어느 크기로 출력될지 계산)<br>
+<img src = "./5.png" width="50%">
 
 (4) Paint<br>
-랜더링 된 요소에 색을 입히는 과정
+랜더링 된 요소에 색을 입히는 과정(요소를 가지고 실제 화면을 그리게 됨)
 
 <br>
 
