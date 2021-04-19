@@ -1,4 +1,5 @@
-# DoongJi Front Study :facepunch:
+# Front Study :facepunch:
+프론트엔드 개발자가 알고 있어야 할 기초지식 정리
 
 ### :link: **Study Link**
 
@@ -59,3 +60,4 @@
 - Study Link에서 각자 겹치지 않는 주제를 매주 2개씩 선택한다.
 - 매주 일요일 8시 게더에서 정리한 자료 리뷰 시간을 가진다.
 - 공부 후 질문사항이 있을 경우 [Issue](https://github.com/FrontStudy/doongji-front-study/issues) 에 작성한다.
+- 참고문헌이 있다면 **반드시** 마지막에 작성한다.
