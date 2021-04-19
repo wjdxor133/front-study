@@ -22,8 +22,8 @@
 - [“기획 - 디자인 - API 개발 - 프런트엔드 개발“의 서비스 절차에서 프런트엔드 개발자의 역할은 무엇이라고 생각하는지?](https://github.com/FrontStudy/doongji-front-study/tree/main/KyungMin/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EC%97%AD%ED%95%A0)
 - [브라우저 저장소에 대해서 설명해 보세요](https://github.com/FrontStudy/doongji-front-study/tree/main/DongJun/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C)
 - [자바스크립트 이벤트 관리 방법? 보통 어떤 식으로 이벤트 설계해야 하는지?](https://github.com/FrontStudy/doongji-front-study/tree/main/DongJun/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EB%B2%95)
-- SEO(검색 엔진 최적화)란?
-- 함수형 프로그래밍이란?
+- [SEO(검색 엔진 최적화)란?](https://github.com/FrontStudy/doongji-front-study/tree/main/YunSeong/SEO(%EA%B2%80%EC%83%89%20%EC%97%94%EC%A7%84%20%EC%B5%9C%EC%A0%81%ED%99%94))
+- [함수형 프로그래밍이란?](https://github.com/FrontStudy/doongji-front-study/tree/main/YunSeong/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 
 
 
