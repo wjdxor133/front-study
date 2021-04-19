@@ -58,4 +58,4 @@
 
 - Study Link에서 각자 겹치지 않는 주제를 매주 2개씩 선택한다.
 - 매주 일요일 8시 게더에서 정리한 자료 리뷰 시간을 가진다.
-- 공부 후 질문사항이 있을 경우 Issue 에 작성한다.
+- 공부 후 질문사항이 있을 경우 [Issue](https://github.com/FrontStudy/doongji-front-study/issues) 에 작성한다.
